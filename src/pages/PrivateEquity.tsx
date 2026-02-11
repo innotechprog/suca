@@ -7,7 +7,7 @@ const PrivateEquity = () => (
   <>
     <Navbar />
     <main>
-      <header className="bg-primary text-primary-foreground pt-28 pb-16">
+      <header className="bg-primary text-primary-foreground pt-32 pb-24">
         <div className="container mx-auto px-6">
           <div className="max-w-3xl">
             <h1 className="font-serif text-3xl md:text-4xl font-bold text-primary-foreground mb-6">

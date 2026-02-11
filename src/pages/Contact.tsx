@@ -23,7 +23,7 @@ const Contact = () => {
     <>
       <Navbar />
       <main>
-        <header className="bg-primary text-primary-foreground pt-28 pb-16">
+        <header className="bg-primary text-primary-foreground pt-32 pb-24">
           <div className="container mx-auto px-6">
             <h1 className="font-serif text-4xl md:text-5xl font-bold">Contact Us</h1>
             <p className="mt-4 text-cream-dark/70 max-w-xl">
